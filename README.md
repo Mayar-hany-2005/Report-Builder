@@ -21,23 +21,19 @@ Data Modeling & Visualization
 
 
 📂 MovieDB-Report
-├── scripts/
+├── scripts/                 # SQL scripts to create and populate the database
+│   ├── create_tables.sql       # Script to define tables: Movies, Genres, Studios, etc.
+│   └── insert_data.sql         # Script to insert sample movie data into the database
+│
+├── report/                  # Report Builder (.rdl) file
+│   └── movies.rdl               # SSRS report file with visuals and queries
+│
+├── screenshots/             # Visual preview of the report
+│   ├── report_view.png          # Full view of the report layout in Report Builder
+│   └── chart_example.png        # Chart showing visual insights from the report
+│
+└── README.md               # Project description and documentation
 
-│   ├── create_tables.sql
-
-│   └── insert_data.sql
-
-├── report/
-
-│   └── movies.rdl
-
-├── screenshots/
-
-│   ├── report_view.png
-
-│   └── chart_example.png
-
-└── README.md
 
 
 🧠 Dataset Summary:
