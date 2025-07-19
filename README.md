@@ -18,7 +18,7 @@ SQL (DDL & DML)
 Data Modeling & Visualization
 
 📁 Project Structure:
-pgsql
+
 
 📂 MovieDB-Report
 ├── scripts/
@@ -30,6 +30,8 @@ pgsql
 │   ├── report_view.png
 │   └── chart_example.png
 └── README.md
+
+
 🧠 Dataset Summary:
 Data was created manually to simulate a realistic movie database with the following tables:
 
