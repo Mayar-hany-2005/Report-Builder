@@ -74,9 +74,7 @@ Export-ready design (PDF, Excel)
 Clone the repo:
 
 bash
-نسخ
-تحرير
-git clone https://github.com/your-username/MovieDB-Report.git
+
 Import create_tables.sql and insert_data.sql into your SQL Server.
 
 Open movies.rdl in Microsoft Report Builder.
