@@ -17,42 +17,6 @@ SQL (DDL & DML)
 
 Data Modeling & Visualization
 
-📁 Project Structure:
-### 📁 Project Structure:
-📂 MovieDB-Report
-├── scripts/ # SQL scripts to create and populate the database
-│ ├── create_tables.sql # Script to define tables: Movies, Genres, Studios, etc.
-│ └── insert_data.sql # Script to insert sample movie data into the database
-│
-├── report/ # Report Builder (.rdl) file
-│ └── movies.rdl # SSRS report file with visuals and queries
-│
-├── screenshots/ # Visual preview of the report
-│ ├── report_view.png # Full view of the report layout in Report Builder
-│ └── chart_example.png # Chart showing visual insights from the report
-│
-└── README.md # Project description and documentation
-
-نسخ
-تحرير
-👇 النتيجة اللي هتظهر:
-graphql
-نسخ
-تحرير
-📂 MovieDB-Report
-├── scripts/                 # SQL scripts to create and populate the database
-│   ├── create_tables.sql       # Script to define tables: Movies, Genres, Studios, etc.
-│   └── insert_data.sql         # Script to insert sample movie data into the database
-│
-├── report/                  # Report Builder (.rdl) file
-│   └── movies.rdl               # SSRS report file with visuals and queries
-│
-├── screenshots/             # Visual preview of the report
-│   ├── report_view.png          # Full view of the report layout in Report Builder
-│   └── chart_example.png        # Chart showing visual insights from the report
-│
-└── README.md               # Project description and documentation
-
 
 🧠 Dataset Summary:
 Data was created manually to simulate a realistic movie database with the following tables:
