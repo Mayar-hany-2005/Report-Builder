@@ -22,13 +22,21 @@ Data Modeling & Visualization
 
 📂 MovieDB-Report
 ├── scripts/
+
 │   ├── create_tables.sql
+
 │   └── insert_data.sql
+
 ├── report/
+
 │   └── movies.rdl
+
 ├── screenshots/
+
 │   ├── report_view.png
+
 │   └── chart_example.png
+
 └── README.md
 
 
