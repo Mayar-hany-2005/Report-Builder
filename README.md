@@ -19,8 +19,7 @@ Data Modeling & Visualization
 
 📁 Project Structure:
 pgsql
-نسخ
-تحرير
+
 📂 MovieDB-Report
 ├── scripts/
 │   ├── create_tables.sql
@@ -71,15 +70,14 @@ Built-in filters to analyze by genre or rating
 Export-ready design (PDF, Excel)
 
 🚀 How to Run:
-Clone the repo:
 
-bash
 
 Import create_tables.sql and insert_data.sql into your SQL Server.
 
 Open movies.rdl in Microsoft Report Builder.
 
 Connect to your local SQL Server and run the report.
+
 
 💬 Contact:
 For questions or feedback, feel free to connect on LinkedIn
